@@ -141,7 +141,8 @@ This project is private and all rights are reserved.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- [@leravalera4](https://github.com/leravalera4) — Frontend, Idea, Dev
+- [@joeknowscode](https://github.com/joeknowscode) — Backend, Idea, Dev
 
 ## 🙏 Acknowledgments
 
