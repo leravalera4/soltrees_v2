@@ -137,7 +137,7 @@ The backend API documentation is available in the `soltrees-be/README.md` file.
 
 ## 📝 License
 
-This project is private and all rights are reserved.
+This project is public and everyone is welcome
 
 ## 👥 Authors
 
