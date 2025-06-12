@@ -1,0 +1,1 @@
+export type TreeCategory = 'developer' | 'networking' | 'jobseeker' | 'recruiter'; 
